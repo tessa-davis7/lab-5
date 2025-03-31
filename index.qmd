@@ -1,12 +1,29 @@
 ---
 title: ESS 330 Tessa's  Project Proposals
 authors:
-  - name: Norah Jones
-    affiliation: The University
+  - name: Tessa Davis
+    affiliation: CSU
     roles: writing
     corresponding: true
 bibliography: references.bib
+  key: @CITEKEY
 ---
 
 ## Section
 This is a simple placeholder for the manuscript's main document [@knuth84].
+
+Proposal 1
+Title: Blooming Algal Bloom Rates
+Justification: Algal bloom rates have been significantly increasing since the 80’s covering 57% of lake surface globally (Wang et al. 2025). Algal blooms impact human and animal health, lower biodiversity, contaminate drinking water, harm the local economy, restrict oxygen in lakes, and block sunlight from reaching the bottom of lakes (Denchak 2019). Since there has been an increase in blooms and the problem now impacts over half of the world's lakes, it is important to analyze the problem. Climate change is driving the algal blooms by increasing the carbon dioxide available for cyanobacteria to feed on (Denchak 2019). Slowing down algal rates is important due to how difficult blooms can be to get rid of. When algae dies and decomposes it releases even more carbon dioxide allowing for more algae to grow making the blooms hard to completely halt (Denchak 2019). Therefore, preventing blooms in the first place and studying how to effectively prevent them is becoming an even more important endeavor.
+Research Objective: The objective of this research would be to analyze rates of algal blooms, how they are impacting the areas they are occurring in, what is being done about them,  and how to prevent and get rid of them. 
+Research Question: What methods of management and prevention are most effective in keeping cyanobacteria algal blooms out of lakes in the United States?
+Proposed Methods: The study would analyze data from CyAn on cyanobacteria algal bloom rates over the last decade in the United States lakes. How these blooms were managed will also be looked into to determine ways of clearing out blooms most effectively. Lastly, prevention measures that have worked previously will be analyzed. The ANOVA statistical analysis will be used to determine the effectiveness of different management and prevention methods. 
+Expected Outcomes: It is expected to find ways to clear cyanobacteria blooms out of lakes and prevent future blooms. This outcome is important for saving lake access and biodiversity around not only the United States, but the whole world.  
+
+Proposal 2
+Title: Social Justice & City Pollution
+Justification: Release of harmful pollutants and toxins are becoming an increasing concern as public health is impacted and climate change persists. With examples of poor management like in Louisiana’s Cancer Alley, questions of the role of socioeconomic status of impacted communities in regulation enforcement arise. It is already known that historical red lining has had lasting effects on pollution exposure to minorities and disadvantaged communities (Magazine & Kuta 2022). This research would aim to identify how pollution and toxin releasing facilities are being held accountable in these communities today. Along the Mississippi River in Louisiana lies Cancer Alley, a row of communities that have been experiencing a plethora of negative health consequences due to petrochemical and fossil fuel release (Human Rights Watch 2025). The local government and the EPA have been blamed for failing to regulate the release of these harmful toxins into these communities and disproportionately harming minorities (Human Rights Watch 2025). Comparing incidents like this to incidents in communities with higher socioeconomic status is important for improving regulation enforcement and protecting vulnerable communities. 
+Research Objective: This study would aim to discover how polluting companies in cities are harming locals, how this issue intersects with social issues, and how to stop this harm. 
+Research Question: How are non complying polluting facilities harming residents that live near their toxin release?  
+Research Hypothesis: Communities consisting mostly of people in lower socioeconomic status are more likely to have looser enforcement of toxin release regulation. 
+Proposed Methods: This study will look at health and environmental regulation compliance of toxin releasing facilities in cities using EPA Enviro data. The study will also look at how these released toxins impact human and environmental health using CDC data. Lastly, socioeconomic patterns in who is impacted will be analyzed using Census data. Analysis will be focused on cities in the United States with major toxin releasing facilities from the 2000s up. Looking into how noncompliance impacted facilities will also be an aspect. This way we can determine if facility location and who lives around it plays a role in how noncompliance is handled. The statistical tests that are to be used for this research are logistic regression to analyze compliance of facilities based on different factors and ANOVA to analyze socioeconomic status of communities near complying/noncomplying and heavily/lightly regulated facilities. 

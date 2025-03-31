@@ -1,5 +1,7 @@
-project:
+project: ESS 330 Tessa's Project Proposals
   type: manuscript
+  
+author: Tessa Davis
 
 manuscript:
   article: index.qmd
